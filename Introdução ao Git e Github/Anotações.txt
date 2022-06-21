@@ -1,0 +1,5 @@
+Aprender a programar aumenta a mente, ajuda a pensar melhor.
+Steve Jobs – fundador da Apple
+
+Link para Download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
