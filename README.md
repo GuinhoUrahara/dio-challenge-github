@@ -1,4 +1,4 @@
-# dio-challenge-github
+# Dio-Challenge-GitHub
 Project Challenge about Git/GitHub
 
 ## Links Úteis
